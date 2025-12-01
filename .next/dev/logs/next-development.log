@@ -1,16 +1,19 @@
-[00:00:01.281] Server  LOG     
-[00:00:01.281] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
-[00:00:01.282] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
-
-[00:00:01.282] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
-[00:00:01.282] Server  LOG     
-[00:00:01.283] Server  LOG        The following mandatory changes were made to your tsconfig.json:
-
-[00:00:01.283] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
-[00:00:01.283] Server  LOG     
-[00:00:01.478] Server  LOG      ✓ Ready in 931ms
-[00:02:39.529] Server  LOG      ○ Compiling / ...
-[00:02:44.961] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:46.023] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:46.023] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:02:46.023] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764477905578}
+[00:00:02.197] Server  LOG      ✓ Ready in 1485ms
+[00:00:13.318] Server  LOG      ○ Compiling / ...
+[00:00:18.597] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.626] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:19.626] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:19.626] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764561182583}
+[00:01:26.079] Server  LOG      ✓ Compiled in 96ms
+[00:01:35.723] Server  LOG      ✓ Compiled in 68ms
+[00:01:41.575] Server  LOG      ✓ Compiled in 76ms
+[00:05:09.469] Server  LOG      ✓ Compiled in 60ms
+[00:05:11.838] Server  LOG      ✓ Compiled in 60ms
+[00:05:17.639] Server  LOG      ✓ Compiled in 70ms
+[00:05:55.451] Server  LOG      ✓ Compiled in 61ms
+[00:05:57.311] Server  LOG      ✓ Compiled in 82ms
+[00:05:59.294] Server  LOG      ✓ Compiled in 71ms
+[00:06:13.606] Server  LOG      ✓ Compiled in 166ms
+[00:06:30.146] Server  LOG      ✓ Compiled in 112ms
+[00:06:33.863] Server  LOG      ✓ Compiled in 61ms
+[00:06:36.730] Server  LOG      ✓ Compiled in 173ms

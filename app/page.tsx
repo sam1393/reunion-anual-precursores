@@ -131,10 +131,10 @@ export default function Home() {
                     📍 Ubicación
                   </p>
                   <p className="text-gray-600 text-xl sm:text-2xl font-bold" style={{ fontFamily: "var(--font-exo2)" }}>
-                    Salón del Reino
+                    Av. Marcavelica
                   </p>
-                  <p className="text-gray-500 text-xs sm:text-sm mt-1" style={{ fontFamily: "var(--font-lato)" }}>
-                    Centro Regional
+                  <p className="text-gray-600 text-xl sm:text-2xl font-bold" style={{ fontFamily: "var(--font-exo2)" }}>
+                    Calle Pacaipampa, esquina Santa Rosa
                   </p>
                 </div>
               </div>

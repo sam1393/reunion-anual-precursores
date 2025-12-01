@@ -530,18 +530,18 @@ function Home() {
                                                     style: {
                                                         fontFamily: "var(--font-exo2)"
                                                     },
-                                                    children: "Salón del Reino"
+                                                    children: "Av. Marcavelica"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/page.tsx",
                                                     lineNumber: 133,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-gray-500 text-xs sm:text-sm mt-1",
+                                                    className: "text-gray-600 text-xl sm:text-2xl font-bold",
                                                     style: {
-                                                        fontFamily: "var(--font-lato)"
+                                                        fontFamily: "var(--font-exo2)"
                                                     },
-                                                    children: "Centro Regional"
+                                                    children: "Calle Pacaipampa, esquina Santa Rosa"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/page.tsx",
                                                     lineNumber: 136,
