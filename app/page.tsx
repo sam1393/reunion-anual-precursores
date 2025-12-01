@@ -137,7 +137,7 @@ export default function Home() {
                     Calle Pacaipampa, esquina Santa Rosa
                   </p>
                   <p className="text-gray-600 text-xl sm:text-2xl font-bold" style={{ fontFamily: "var(--font-exo2)" }}>
-                    - Casa de la hermana Teresa Valladares
+                    ( Casa de la hermana Teresa Valladares )
                   </p>
                 </div>
               </div>
