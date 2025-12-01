@@ -105,7 +105,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$vercel$2f$
 ;
 const metadata = {
     title: "Reunión Anual de Precursores Regulares 2025",
-    description: "Únete a la Reunión Anual de Precursores Regulares. Fecha: 15 de marzo | Hora: 9:00 AM | Ubicación: Salón del Reino",
+    description: "Reunión Anual de Precursores Regulares. Fecha: 13 de diciembre | Hora: 6:30 PM",
     generator: "v0.app",
     icons: {
         icon: [

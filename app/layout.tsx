@@ -23,7 +23,7 @@ const exo2 = Exo_2({
 export const metadata: Metadata = {
   title: "Reunión Anual de Precursores Regulares 2025",
   description:
-    "Únete a la Reunión Anual de Precursores Regulares. Fecha: 15 de marzo | Hora: 9:00 AM | Ubicación: Salón del Reino",
+    "Reunión Anual de Precursores Regulares. Fecha: 13 de diciembre | Hora: 6:30 PM",
   generator: "v0.app",
   icons: {
     icon: [
